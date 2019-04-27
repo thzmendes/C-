@@ -1,0 +1,11 @@
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\bin\Debug\netcoreapp2.2\Git_Test.deps.json
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\bin\Debug\netcoreapp2.2\Git_Test.runtimeconfig.json
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\bin\Debug\netcoreapp2.2\Git_Test.runtimeconfig.dev.json
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\bin\Debug\netcoreapp2.2\Git_Test.dll
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\bin\Debug\netcoreapp2.2\Git_Test.pdb
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\obj\Debug\netcoreapp2.2\Git_Test.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\obj\Debug\netcoreapp2.2\Git_Test.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\obj\Debug\netcoreapp2.2\Git_Test.AssemblyInfoInputs.cache
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\obj\Debug\netcoreapp2.2\Git_Test.AssemblyInfo.cs
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\obj\Debug\netcoreapp2.2\Git_Test.dll
+C:\Users\Thomas\Desktop\Code\C#\csharp\Git_Test\Git_Test\obj\Debug\netcoreapp2.2\Git_Test.pdb
