@@ -7,22 +7,21 @@ namespace exercicio_Enum_Composicao.Entities
         public int Quantity { get; set; }
         public double Price { get; set; }
         public Product Product { get; set; }
-        public OrderStatus Status { get; set; }
+
 
         public OrderItem() { }
 
-        public OrderItem(int quantity, double price, Product product, OrderStatus status)
+        public OrderItem(int quantity, double price, Product product)
         {
             Quantity = quantity;
             Price = price;
             Product = product;
-            Status = status;
         }
 
-        public double SubTotal(Product product)
+        public double SubTotal()
         {
             double sum = 0;
-            sum += product.Price;
+            sum += Price * Quantity;
             return sum;
         }
     }
