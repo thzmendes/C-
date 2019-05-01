@@ -10,7 +10,7 @@ namespace Treino_Composicao.Entities
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
-        public Department department { get; set; }
+        public Department Department { get; set; }
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
 
         public Worker()
@@ -19,10 +19,10 @@ namespace Treino_Composicao.Entities
 
         public Worker(string name, WorkerLevel level, double baseSalary, Department department)
         {
-            Name = name ?? throw new ArgumentNullException(nameof(name));
+            Name = name;
             Level = level;
             BaseSalary = baseSalary;
-            this.department = department ?? throw new ArgumentNullException(nameof(department));
+            Department = department;
         }
 
         public void AddContract(HourContract contract)
@@ -41,7 +41,9 @@ namespace Treino_Composicao.Entities
             foreach(HourContract contract in Contracts)
             {
                 if (contract.Date.Year==year && contract.Date.Month == month) { sum += contract.TotalValue(); }
+                
             }
+            return sum;
         }
     }
 }

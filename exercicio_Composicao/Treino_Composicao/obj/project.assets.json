@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas\\Desktop\\Code\\Treino_Composicao\\Treino_Composicao\\Treino_Composicao.csproj",
+      "projectUniqueName": "C:\\Users\\Thomas\\Desktop\\Code\\C#\\exercicio_Composicao\\Treino_Composicao\\Treino_Composicao.csproj",
       "projectName": "Treino_Composicao",
-      "projectPath": "C:\\Users\\Thomas\\Desktop\\Code\\Treino_Composicao\\Treino_Composicao\\Treino_Composicao.csproj",
+      "projectPath": "C:\\Users\\Thomas\\Desktop\\Code\\C#\\exercicio_Composicao\\Treino_Composicao\\Treino_Composicao.csproj",
       "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas\\Desktop\\Code\\Treino_Composicao\\Treino_Composicao\\obj\\",
+      "outputPath": "C:\\Users\\Thomas\\Desktop\\Code\\C#\\exercicio_Composicao\\Treino_Composicao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
