@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Thomas\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Thomas\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_exericio_heranca1.204701804.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Thomas\Desktop\Code\C#\exericio_heranca1" t="IncludeFlat">
+      <e p="exericio_heranca1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="Account.cs" t="Include" />
+          <e p="BusinessAccount.cs" t="Include" />
+        </e>
+        <e p="exericio_heranca1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="exericio_heranca1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="exericio_heranca1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

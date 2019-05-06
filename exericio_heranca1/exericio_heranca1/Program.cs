@@ -1,4 +1,5 @@
-﻿using System;
+﻿using exericio_heranca1.Entities;
+using System;
 
 namespace exericio_heranca1
 {
@@ -6,7 +7,11 @@ namespace exericio_heranca1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            BusinessAccount businessAccount = new BusinessAccount(number: 8010,holder:"Thomas",
+                balance:10000,loanlimit:2000);
+
+            Console.WriteLine(businessAccount.Balance);
         }
     }
 }
