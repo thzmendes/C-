@@ -1,45 +1,47 @@
-﻿using exercicio_abstract2.Entities;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using exercicio_abstract2.Entities;
 
 namespace exercicio_abstract2
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
-            List<TaxPayer> list = new List<TaxPayer>();
+            var list = new List<TaxPayer>();
             Console.WriteLine("Número de contribuintes: ");
-            int num_taxpayers = int.Parse(Console.ReadLine());
-            for (int i = 1; i <= num_taxpayers; i++)
+            var numTaxpayers = int.Parse(Console.ReadLine());
+            for (var i = 1; i <= numTaxpayers; i++)
             {
                 Console.WriteLine("Insira os dados do contribuinte #{0}: ", i);
                 Console.WriteLine("Pessoa Física ou Jurídica? (f/j)");
-                char type = char.Parse(Console.ReadLine());
+                var type = char.Parse(Console.ReadLine());
                 switch (type)
                 {
                     case 'f':
                         Console.WriteLine("Nome: ");
-                        string nome = Console.ReadLine();
+                        var nome = Console.ReadLine();
                         Console.WriteLine("Renda anual: ");
-                        double annualIncome = double.Parse(Console.ReadLine());
+                        var annualIncome = double.Parse(Console.ReadLine());
                         Console.WriteLine("Gastos com saúde: ");
-                        double health = double.Parse(Console.ReadLine());
+                        var health = double.Parse(Console.ReadLine());
                         list.Add(new Individual(nome, annualIncome, health));
                         break;
                     case 'j':
                         Console.WriteLine("Nome: ");
-                        string nome1 = Console.ReadLine();
+                        var nome1 = Console.ReadLine();
                         Console.WriteLine("Renda anual: ");
-                        double annualIncome1 = double.Parse(Console.ReadLine());
+                        var annualIncome1 = double.Parse(Console.ReadLine());
                         Console.WriteLine("Número de Funcionários: ");
-                        int num_func = int.Parse(Console.ReadLine());
-                        list.Add(new Company(nome1, annualIncome1, num_func));
+                        var numFunc = int.Parse(Console.ReadLine());
+                        list.Add(new Company(nome1, annualIncome1, numFunc));
                         break;
-                    default: Console.WriteLine("Dados Inválidos, tente novamente."); break;
+                    default:
+                        Console.WriteLine("Dados Inválidos, tente novamente.");
+                        break;
                 }
-
             }
+
             Console.WriteLine();
 
             double total = 0;
@@ -49,9 +51,9 @@ namespace exercicio_abstract2
                 Console.WriteLine(l.Name + ": $ " + l.Tax().ToString("F2"));
                 total += l.Tax();
             }
-            Console.WriteLine();
-            Console.WriteLine("Impostos arrecadados: "+total);
 
+            Console.WriteLine();
+            Console.WriteLine("Impostos arrecadados: " + total);
         }
     }
 }
