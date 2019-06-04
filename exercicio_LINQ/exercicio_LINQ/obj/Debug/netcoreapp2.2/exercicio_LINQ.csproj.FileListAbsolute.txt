@@ -1,0 +1,11 @@
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\bin\Debug\netcoreapp2.2\exercicio_LINQ.deps.json
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\bin\Debug\netcoreapp2.2\exercicio_LINQ.runtimeconfig.json
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\bin\Debug\netcoreapp2.2\exercicio_LINQ.runtimeconfig.dev.json
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\bin\Debug\netcoreapp2.2\exercicio_LINQ.dll
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\bin\Debug\netcoreapp2.2\exercicio_LINQ.pdb
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\obj\Debug\netcoreapp2.2\exercicio_LINQ.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\obj\Debug\netcoreapp2.2\exercicio_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\obj\Debug\netcoreapp2.2\exercicio_LINQ.AssemblyInfoInputs.cache
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\obj\Debug\netcoreapp2.2\exercicio_LINQ.AssemblyInfo.cs
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\obj\Debug\netcoreapp2.2\exercicio_LINQ.dll
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ\exercicio_LINQ\obj\Debug\netcoreapp2.2\exercicio_LINQ.pdb
