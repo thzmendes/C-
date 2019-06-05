@@ -1,0 +1,10 @@
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ3\exercicio_LINQ3\bin\Debug\netcoreapp2.2\exercicio_LINQ3.deps.json
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ3\exercicio_LINQ3\bin\Debug\netcoreapp2.2\exercicio_LINQ3.runtimeconfig.json
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ3\exercicio_LINQ3\bin\Debug\netcoreapp2.2\exercicio_LINQ3.runtimeconfig.dev.json
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ3\exercicio_LINQ3\bin\Debug\netcoreapp2.2\exercicio_LINQ3.dll
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ3\exercicio_LINQ3\bin\Debug\netcoreapp2.2\exercicio_LINQ3.pdb
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ3\exercicio_LINQ3\obj\Debug\netcoreapp2.2\exercicio_LINQ3.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ3\exercicio_LINQ3\obj\Debug\netcoreapp2.2\exercicio_LINQ3.AssemblyInfoInputs.cache
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ3\exercicio_LINQ3\obj\Debug\netcoreapp2.2\exercicio_LINQ3.AssemblyInfo.cs
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ3\exercicio_LINQ3\obj\Debug\netcoreapp2.2\exercicio_LINQ3.dll
+C:\Users\Thomas\Desktop\Code\C#\exercicio_LINQ3\exercicio_LINQ3\obj\Debug\netcoreapp2.2\exercicio_LINQ3.pdb
